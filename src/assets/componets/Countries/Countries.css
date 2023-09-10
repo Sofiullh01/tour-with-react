@@ -1,0 +1,12 @@
+.box{
+    border: 2px solid plum;
+    margin: 12px;
+    padding: 12px;
+    border-radius: 12px;
+}
+.flex{
+    display:grid;
+    grid-template-columns: repeat(3 , 1fr);
+    gap: 20px;
+}
+

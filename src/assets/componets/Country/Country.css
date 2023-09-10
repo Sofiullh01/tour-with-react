@@ -1,0 +1,20 @@
+.grid-item {
+    border: 2px solid purple;
+    margin: 12px;
+    padding: 12px;
+    border-radius: 12px;
+};
+
+.imgSize{
+    width: 160px;
+    height: 200px;
+}
+.dis{
+    display: inline;
+}
+.rig{
+    float: right;
+}
+.visited{
+    background-color: lightgray;
+}
